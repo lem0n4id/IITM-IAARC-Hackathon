@@ -1,5 +1,8 @@
 # IITM-IAARC Hackathon: Concrete Strength Prediction with Recycled Aggregates 🏗️🌍
 
+##### Secured **second position** in the IITM-IAARC Hackathon for this project!! 🏆
+##### [View the Hackathon Presentation](https://github.com/lem0n4id/IITM-IAARC-Hackathon/blob/main/Lenin%20Kennedy%20-%20Team%204%20-%20ISARC%20ppt.pdf) 📽️
+
 ## Overview
 
 This project aims to predict the compressive strength of concrete made using recycled aggregates (RCA). Concrete is one of the most commonly used construction materials, and the incorporation of recycled aggregates can significantly reduce environmental impact. This study leverages various machine learning techniques to analyze data and predict concrete strength based on multiple factors. 📊🤖
